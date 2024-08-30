@@ -19,5 +19,5 @@ function contarA() {
 	resultadoContagem.innerHTML = `
     <p>A letra "a" minúscula aparece <b>${contagemMinusculo}</b> vezes no texto.</p>
     <p>A letra "A" maiúscula aparece <b>${contagemMaiusculo}</b> vezes no texto.</p>
-  `;
+`;
 }
